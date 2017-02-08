@@ -40,7 +40,7 @@ img {
 /*4. Notice that the text for the description in the image is justified.*/
 h3 {
 	display: block;
-	margin-left: 10px;
+	margin-left: 100px;
 	height: 10px;
 	line-height: 1.0em;
 }
@@ -50,21 +50,28 @@ h4 {
 	text-align: center;
 	line-height: 1.0em;
 	padding: 3px;
-	color: white;
-	background: blue;
+/*6. The availability element extends the full width of the card, with a dark grey 
+	background and yellow text.*/
+	color: yellow;
+	background: darkgray;
 }
 
 h5 {
-	margin-left: 10px;
+	margin-left: 100px;
+	height: 10px;
+	line-height: 1.0em;
+/*5. The text for the product specification details and pricing details is bold.*/
+	font-weight: bold;
+}
+
+footer {
+	margin-left: 100px;
 	height: 10px;
 	line-height: 1.0em;
 }
 
-footer {
-	margin-left: 10px;
-	height: 10px;
-	line-height: 1.0em;
+.out-of-stock {
+	background: red;
+	color: white;
 }
-5. The text for the product specification details and pricing details is bold.
-6. The availability element extends the full width of the card, with a dark grey background 
-	and yellow text.
+
