@@ -38,6 +38,10 @@ img {
 }
 
 /*4. Notice that the text for the description in the image is justified.*/
+div {
+	text-align: center;
+}
+
 h3 {
 	display: block;
 	margin-left: 100px;
