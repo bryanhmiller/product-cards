@@ -1,17 +1,6 @@
 /*### Additional style requirements
 
-2. Each card should take up 30% of the width of the browser window.
-<<<<<<< HEAD
-
-
-1. The entire card has a solid 1px border that is `lightblue`.
-2. The card title has a dotted 1px border that is `lightgray`.
-3. The title and product image are centered.
-4. Notice that the text for the description in the image is justified.
-5. The text for the product specification details and pricing details is bold.
-6. The availability element extends the full width of the card, with a dark grey background 
-	and yellow text.*/
-*/
+2. Each card should take up 30% of the width of the browser window.*/
 body {
 	display: flex;
 	flex-wrap: wrap;
@@ -59,22 +48,22 @@ h3 {
 	line-height: 1.0em;
 }
 
+/*6. The availability element extends the full width of the card, with a dark grey 
+	background and yellow text.*/
 h4 {
 	display: block;
 	text-align: center;
 	line-height: 1.0em;
 	padding: 3px;
-/*6. The availability element extends the full width of the card, with a dark grey 
-	background and yellow text.*/
 	color: yellow;
 	background: darkgray;
 }
 
+/*5. The text for the product specification details and pricing details is bold.*/
 h5 {
 	margin-left: 100px;
 	height: 10px;
 	line-height: 1.0em;
-/*5. The text for the product specification details and pricing details is bold.*/
 	font-weight: bold;
 }
 
