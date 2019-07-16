@@ -49,22 +49,22 @@ h3 {
 	line-height: 1.0em;
 }
 
+/*6. The availability element extends the full width of the card, with a dark grey 
+	background and yellow text.*/
 h4 {
 	display: block;
 	text-align: center;
 	line-height: 1.0em;
 	padding: 3px;
-/*6. The availability element extends the full width of the card, with a dark grey 
-	background and yellow text.*/
 	color: yellow;
 	background: darkgray;
 }
 
+/*5. The text for the product specification details and pricing details is bold.*/
 h5 {
 	margin-left: 100px;
 	height: 10px;
 	line-height: 1.0em;
-/*5. The text for the product specification details and pricing details is bold.*/
 	font-weight: bold;
 }
 
