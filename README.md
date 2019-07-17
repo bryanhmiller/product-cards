@@ -4,9 +4,16 @@
 # Product Cards
 
 Your task is to build a grid of cards for a company's products. Here are the requirements for the basic structure of the cards.
+
 1. Each card should be an `article`.
 
 2. Each card should take up 30% of the width of the browser window.
+-  * Ordered sub-list
+-  * Ordered sub-list
+-  * Ordered sub-list
+-  1. Ordered sub-list
+-  1. Ordered sub-list
+-  1. Ordered sub-list
 		i. 			The entire card has a solid 1px border that is `lightblue`.
 		ii. 		The card title has a dotted 1px border that is `lightgray`.
 		iii. 		The title and product image are centered. 
